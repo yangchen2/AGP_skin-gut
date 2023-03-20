@@ -1,1 +1,1 @@
-# AGP_skin-gut
+# American Gut Project skin/gut analysis
